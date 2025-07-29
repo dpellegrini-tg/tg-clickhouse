@@ -1,0 +1,6 @@
+<yandex>
+    <path>/mnt/clickhouse_data/</path>
+    <tmp_path>/mnt/clickhouse_data/tmp/</tmp_path>
+    <user_files_path>/mnt/clickhouse_data/user_files/</user_files_path>
+    <format_schema_path>/mnt/clickhouse_data/format_schemas/</format_schema_path>
+</yandex>
